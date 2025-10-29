@@ -1,0 +1,3 @@
+grafana:
+  # only for tests
+  adminPassword: hello-world
